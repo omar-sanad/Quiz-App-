@@ -14,7 +14,7 @@
   </br>
  
   <h3><u>THIRD screen :</u></h3>
-  Then it will show you the test result and the reset button where she able to you to restart the quiz 
+  Then it will show you the Quiz result and the reset button where she able to you to restart the quiz 
 <p align="center">
   <img src="screens/3.png" width="350" title="hover text"> 
   </p>
